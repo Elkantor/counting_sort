@@ -1,5 +1,5 @@
 # counting_sort
-> A C module to sort an array (integers) by indexes, without loosing order original array using the counting sort algorithm
+> A C module to sort an array (integers) by indexes, without loosing the order of the original array using the counting sort algorithm
 
 ## Installing / Getting started
 
